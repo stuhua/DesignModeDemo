@@ -1,4 +1,4 @@
-package com.stuhua.designmode;
+package com.stuhua.designmode.observer;
 
 /**
  * Created by llh on 2016/10/25.

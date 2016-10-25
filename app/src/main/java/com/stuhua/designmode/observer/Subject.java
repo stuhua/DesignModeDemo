@@ -1,4 +1,4 @@
-package com.stuhua.designmode;
+package com.stuhua.designmode.observer;
 
 import java.util.ArrayList;
 import java.util.List;
