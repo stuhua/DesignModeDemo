@@ -19,7 +19,7 @@ import android.util.Log;
  */
 public class Singleton1 {
     public static final String TAG = "Singleton1:";
-    private volatile static Singleton1 instance;
+    private volatile static Singleton1 instance;//volatile 在多线程时，第一个线程改变这个数值时，能够即使写入，第二个线程能够读取改变后的值
 
     private Singleton1() {
 
