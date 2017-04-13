@@ -10,7 +10,7 @@
 
 - 单例模式
 
->Android中各种Manager
+>Android中各种Manager [代码](.\app\src\main\java\com\stuhua\designmode\NutritionFacts.java)
 
 - 建造者模式
 
